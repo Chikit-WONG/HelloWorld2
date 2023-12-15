@@ -7,5 +7,7 @@ int main()
 
     std::cout<<"haha"<<std::endl;
 
+    std::cout<<"haha2"<<std::endl;
+
     return 0;
 }
